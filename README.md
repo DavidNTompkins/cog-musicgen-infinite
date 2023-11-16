@@ -1,3 +1,11 @@
+# This is a fork
+This is a fork of replicate's cog-musicgen repo. Replicate offers cloud finetuning for musicgen models. What they don't mention very clearly is that they also use Cog, an open-source tool that they developed. So while you can download the model after, it appears you can only download in their format. Which is not compatible with audiocraft-infinity, etc. 
+
+That's pretty frustrating - Probably done just for ease on their end, they run a lot of models, etc. But it still is frustrating. 
+
+I really want to be able to run these models locally for a longer duration. Here's me attempting to work their code to do that. 
+
+
 # Cog implementation of MusicGen
 [![Replicate](https://replicate.com/joehoover/musicgen-melody/badge)](https://replicate.com/joehoover/musicgen-melody) 
 
